@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="Profit Panda.png" alt="Profit Panda Logo" width="200"/>
+</p>
 # Profit Panda – Smart Stock Predictor for Food & Hospitality
 
 **Profit Panda** is a machine-learning-powered trading bot designed to make informed stock predictions, particularly for companies in the **food and hospitality industry**. Inspired by the branding of fast-food chains like Panda Express, this Python-based tool collects real-time market data, extracts meaningful features, and makes future price movement predictions to help users make smarter investment decisions.
